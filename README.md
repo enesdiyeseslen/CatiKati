@@ -1,54 +1,50 @@
-Çatı Katı Gizlilik Politikası
-Yürürlük Tarihi: 12 Mart 2026
+Gizlilik Politikası
+Son güncelleme: 12 Mart 2026
 
-Bu Gizlilik Politikası, Çatı Katı mobil uygulamasını ("Uygulama") kullanırken kişisel verilerinizin nasıl toplandığını, kullanıldığını, paylaşıldığını ve korunduğunu açıklar.
+Çatı Katı uygulaması, kullanıcılarına ilan oluşturma, mesajlaşma ve hesap yönetimi hizmetleri sunar. Bu gizlilik politikası, uygulamayı kullanırken hangi verilerin işlendiğini ve nasıl korunduğunu açıklar.
 
-1) Topladığımız Veriler
-Hesap Bilgileri: ad, soyad, e-posta, telefon numarası, yaş, profil bilgileri.
-İlan İçeriği: oluşturduğunuz ilan metinleri, fotoğraflar ve ilan detayları.
-Mesajlaşma Verileri: kullanıcılar arası gönderilen/alınan mesajlar.
-Bildirim Verileri: push bildirim token bilgisi (cihaza bildirim göndermek için).
-Cihaz/Uygulama Verileri: teknik tanımlayıcılar, temel hata/performans kayıtları.
-Yerel Depolama Verileri: uygulama içi tercih bilgileri (ör. oturum/tercihler).
-2) Verileri Hangi Amaçlarla Kullanıyoruz
-Hesap oluşturma, giriş ve kimlik doğrulama işlemlerini yürütmek.
-İlan verme, listeleme ve kullanıcı etkileşimlerini sağlamak.
-Mesajlaşma ve bildirim özelliklerini sunmak.
-Güvenlik, kötüye kullanım önleme ve hizmet bütünlüğünü korumak.
-Yasal yükümlülükleri yerine getirmek.
-3) Üçüncü Taraf Hizmetler ve Veri Paylaşımı
-Uygulama işlevleri için aşağıdaki hizmet sağlayıcılarla veri paylaşımı yapılabilir:
+1) Toplanan Veriler
+Hesap bilgileri: ad, soyad, e-posta, telefon, yaş, profil bilgileri
+İlan verileri: ilan açıklamaları, fotoğraflar, ilan detayları
+Mesajlaşma verileri: kullanıcılar arasında gönderilen/alınan mesajlar
+Bildirim verileri: push bildirim token bilgisi
+Teknik veriler: cihaz ve uygulama ile ilgili temel teknik kayıtlar
+Yerel depolama verileri: uygulama tercihleri ve oturumla ilgili bilgiler
+2) Verilerin Kullanım Amaçları
+Hesap oluşturma ve giriş işlemlerini yürütmek
+İlan yayınlama ve listeleme özelliklerini sağlamak
+Kullanıcılar arası mesajlaşma ve bildirimleri iletmek
+Güvenliği sağlamak, kötüye kullanımı önlemek
+Yasal yükümlülükleri yerine getirmek
+3) Üçüncü Taraf Hizmetler
+Uygulama, hizmetin sağlanması amacıyla aşağıdaki servislerden yararlanabilir:
 
-Supabase: kullanıcı verileri, ilan verileri, mesaj verileri ve dosya depolama.
-Google AdMob: uygulama içi reklam gösterimi için reklamla ilgili teknik veriler.
-Expo Notifications / Google servisleri: push bildirimlerinin iletilmesi.
-Ayrıca, yasal zorunluluk halinde veriler yetkili kamu kurumlarıyla paylaşılabilir.
+Supabase (veri tabanı, kimlik doğrulama, dosya depolama)
+Google AdMob (uygulama içi reklam gösterimi)
+Expo Notifications ve ilgili altyapılar (bildirim gönderimi)
+Yasal zorunluluk durumunda veriler yetkili kurumlarla paylaşılabilir.
 
 4) İzinler
-Fotoğraf/Galeri Erişimi: ilan fotoğrafı seçmek ve yüklemek için kullanılır.
-Bildirim İzni: mesaj ve uygulama bildirimlerini göndermek için kullanılır.
-5) Veri Saklama
-Veriler, hizmetin sunulması için gerekli olduğu sürece veya yasal yükümlülükler kapsamında saklanır. Saklama süresi sonunda veriler silinir, anonimleştirilir veya erişimi kısıtlanır.
+Fotoğraf/Galeri izni: ilan fotoğrafı seçme ve yükleme
+Bildirim izni: mesaj ve uygulama bildirimleri gönderme
+5) Veri Saklama ve Güvenlik
+Veriler, hizmetin sunulması için gerekli süre boyunca veya yasal yükümlülükler kapsamında saklanır. Verilerin korunması için makul teknik ve idari güvenlik önlemleri uygulanır.
 
-6) Veri Güvenliği
-Verileri korumak için makul teknik ve idari tedbirler uygulanır. Bununla birlikte internet üzerinden hiçbir aktarım veya depolama yöntemi %100 güvenli değildir.
+6) Kullanıcı Hakları
+Kullanıcılar, geçerli mevzuat kapsamında verilerine erişme, düzeltme, silme ve işlemeye itiraz etme haklarına sahiptir.
 
-7) Kullanıcı Hakları
-Geçerli mevzuat kapsamında verilerinize erişim, düzeltme, silme ve işlemeye itiraz etme haklarına sahipsiniz.
+7) Hesap ve Veri Silme
+Kullanıcılar uygulama içinden hesap silme adımlarını kullanabilir veya aşağıdaki iletişim adresinden veri silme talebinde bulunabilir.
 
-8) Hesap ve Veri Silme
-Uygulama içinden hesap silme adımlarını kullanabilir veya aşağıdaki iletişim adresi üzerinden veri silme talebi iletebilirsiniz.
+8) Çocukların Gizliliği
+Uygulama 13 yaş altı çocukları hedeflemez. Bu yaş grubuna ait veri işlendiğinin tespit edilmesi halinde gerekli işlemler yapılır.
 
-9) Çocukların Gizliliği
-Uygulama 13 yaş altı çocukları hedeflemez. Bu yaş grubuna ait veri işlendiğinin tespit edilmesi halinde gerekli silme/engelleme işlemleri yapılır.
+9) İletişim
+Gizlilik ve kişisel verilerle ilgili talepler için:
+kvkk@catikati.com
 
-10) İletişim
-Gizlilik ve kişisel verilerle ilgili talepleriniz için: enessharmanci@hotmail.com
-
-11) Politika Değişiklikleri
-Bu politika zaman zaman güncellenebilir. Güncel sürüm bu sayfada yayımlanır ve yayım tarihinden itibaren geçerlidir.
-
-
+10) Değişiklikler
+Bu politika gerektiğinde güncellenebilir. Güncel sürüm bu sayfada yayımlandığı tarihten itibaren geçerlidir.
 
 
 ## Destek (Support)
