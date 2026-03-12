@@ -41,7 +41,7 @@ Uygulama 13 yaş altı çocukları hedeflemez. Bu yaş grubuna ait veri işlendi
 
 9) İletişim
 Gizlilik ve kişisel verilerle ilgili talepler için:
-kvkk@catikati.com
+enessharmanci0@gmail.com
 
 10) Değişiklikler
 Bu politika gerektiğinde güncellenebilir. Güncel sürüm bu sayfada yayımlandığı tarihten itibaren geçerlidir.
